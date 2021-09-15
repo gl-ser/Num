@@ -1,13 +1,13 @@
 # Num
 Библиотека работы с числовыми данными
 
-TNumerical - Класс статических методов манипуляции с числами
+1. TNumerical - Класс статических методов манипуляции с числами
 
-TNumber - Целое число в различных системах счисления
+2. TNumber - Целое число в различных системах счисления
 
 ---
 
-#### TNumerical
+### 1. TNumerical
 
 #### Публичные статические методы
 
@@ -105,7 +105,7 @@ static std::string GradToString(double Value);
 static std::string HexToBin(std::string Value)
 ```
 
-#### TNumber
+### 2. TNumber
 
 #### Публичные методы
 
