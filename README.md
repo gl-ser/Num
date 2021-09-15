@@ -19,7 +19,7 @@
 static double Factorial(int n)
 ```
 
-1.2. _CnK_ комбинаторное число сочетаний "'це' из 'эн' по 'ка'"
+1.2. _CnK_ комбинаторное число сочетаний 'це' из 'эн' по 'ка'
 
 Синтаксис:
 
@@ -104,6 +104,8 @@ static std::string GradToString(double Value);
 ```cpp
 static std::string HexToBin(std::string Value)
 ```
+
+---
 
 ### 2. TNumber
 
