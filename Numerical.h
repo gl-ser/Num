@@ -25,12 +25,12 @@ class TNumerical
     //Дробная часть от деления A/B
     static int Mod(int A, int B);
 
+    //Возвращает знак вещественного числа
+    static int Sign(double Value);
+
     //Возвращает целую часть числа.
     //Число Value должно быть таким, чтобы по размерности его целая часть могла быть сохранена в типе int
     static int Trunc(double Value);
-
-    //Возвращает знак вещественного числа
-    static int Sign(double Value);
 
   public:
     TNumerical(void);
